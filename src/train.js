@@ -121,6 +121,21 @@ network.train(dataset, {
     log: true,
 });
 
-console.log(
-    network.run(createBoW(" booth at #sxsw the", dictionary))
-)
+
+const output = network.run(
+    createBoW("I'm at the party. @mention Rocks! #sxsw", dictionary)
+);
+
+console.log(output);
+if (output.apple > output.google) {
+    console.log("Apple");
+} else {
+    console.log("Google");
+}
+
+//save network to file and log if it is successful
+function saveNetwork(network, fileName) {
+    fs.writeFileSync(fileName, JSON.stringify(network));
+    console.log("Saved network to " + fileName);
+}
+
