@@ -123,14 +123,16 @@ network.train(dataset, {
 
 
 const output = network.run(
-    createBoW("I'm at the party. @mention Rocks! #sxsw", dictionary)
+    createBoW("Party", dictionary)
 );
 
 console.log(output);
 if (output.apple > output.google) {
     console.log("Apple");
-} else {
+} else if (output.apple < output.google) {
     console.log("Google");
+} else {
+    console.log("Confused");
 }
 
 //save network to file and log if it is successful
