@@ -1,0 +1,872 @@
+[
+    {
+       "input":"I just noticed DST is coming this weekend. How many iPhone users will be an hour late at SXSW come Sunday morning? #SXSW #iPhone",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I love my @mention iPhone case from #Sxsw but I can't get my phone out of it #fail",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"What !?!? @mention  #SXSW does not provide iPhone chargers?!?  I've changed my mind about going next year!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Yai!!! RT @mention New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by (cont) {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Take that #SXSW ! RT @mention Major South Korean director gets $130,000 to make a movie entirely with his iPhone. {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Behind on 100s of emails? Give them all 1 line iPhone composed replies. #SXSW #protip",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Picked up a Mophie battery case 4 my iPhone in prep for #SXSW. Not lugging around a laptop &amp; only using my phone was a huge win last year.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"If iPhone alarms botch the timechange, how many #SXSW'ers freak? Late to flights, missed panels, behind on bloody marys...",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I meant I also wish I  at #SXSW #dyac stupid iPhone!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Do I need any more for #sxsw! ipad, iphone, laptop, dictaphone, vid.camera.... Wow! Love to  meet the REAL 'cerebellum' charged people:)",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Overheard at #sxsw interactive: &quot;Arg! I hate the iphone! I want my blackberry back&quot; #shocked",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"overheard at MDW (and I'll second it) &quot;halfway through my iPhone battery already and I haven't even boarded the plane to #sxsw&quot; #amateurhour",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"My iPhone battery at 100%. #winning at #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"My iPhone battery can't keep up with my tweets! Thanks Apple.  #SXSW  #precommerce",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"IPhone is dead. Find me on the secret batphone #sxsw.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"BEST SWAG EVER. Thanks @mention My charging iPhone thanks you, too. #SXSW {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Austin is getting full, and #SXSW is underway.  I can tell because my iPhone is an intermittent brick. #crowded",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":".@mention I have a 3G iPhone. After 3 hrs tweeting at #RISE_Austin, it was dead!  I need to upgrade. Plugin stations at #SXSW.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Love that I have a MacBook, iPad, and iPhone with me at #sxsw this year. One runs out of juice, and I can jump to the next.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Holy cow! I just got hooked by Paolo and Alex with a backup charger for my iPhone! facebook.com/powermat #powermatteam #sxsw #thanks",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Holy cow! I just got hooked by Paolo and Alex with a backup charger for my iPhone! facebook.com/powermat #powermattteam #sxsw #thanks",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention  I'm beyond frustrated w/ @mention after this Samsung Moment runaround &amp; am leaving for ATT &amp; iPhone so I can enjoy #sxsw.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Tim Soo's invisible instruments are jaw dropping. iPhone+Wii controller. {link} #lovemusicapi #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I fear no iphone + #att 3gs slowpoke network during #sxsw &amp; #sxswmusic.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"\"Check out iPhone Developer Meet Up at SXSW.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"{link} #SXSW\"",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"&quot;the iPhone is a transient device used in short bursts; the iPad is an 'after 8pm, on the couch' device.&quot; @mention #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention  iPhone. Clearly. Positively. Happily. #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Flipboard is developing an iPhone version, not Android, says @mention #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"my iPhone is overheating. why are there so many british sounding people in texas? #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"So {link} is part of my presentation at #SXSW so good thing it's crashing now instead of then. Works best on iPhone/Android",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"ÛÏ@mention is walking around #SXSW while staring down at my iPhone 4... Just like everyone else.Û // ummmm...ditto that",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"My iPhone is wilting under the stress of being at #sxsw.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"iPhone, I know this #SXSW week will be tough on your already-dwindling battery, but so help me Jeebus if you keep correcting my curse words.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"God, it's like being at #sxsw - have iMac, MacBook, iPhone and BlackBerry all staring at me. Enough! Time to read a book - remember those?",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Loving my Morphie JuicePack today for a recharge of iPhone. So worth it. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"With just my iPhone and iPad on me, I feel very unequipped compared to everyone else. Dang! #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"&quot;All of #SXSW is nothing but a teeming sea of iPhone addicts too busy Twittering to ever engage with one anothÛ_ (cont) {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"iPhone in one hand, caramel macchiato in the other. Ouch-hiss-hot!  With apparently two pumps of lava. And so it begins... #sxsw #tmsxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I can haz one? ÛÏ@mention Just showed off @mention Charge Anywhere at a bar to charge my iPhone and the whole table wanted to buy one. #SXSWÛ",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention  packing a point by showing iphone fragmentation  #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"We've got some exciting things that we'll be showing off at #SXSW this year: including drag and drop store management on your iPhone",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"You think there would be a #sxsw app for blackberry. Just when I gave iPhone the finger! Guess I'll have to carry around an ipad. LAME",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Excellent tip from @mention Going to #SXSW? The new iPhone guide to #Austin by @mention is free March 9-15. Hard to beat free. #lp",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Do i know u? Why u selling to me! Weve never talked. I now Hate your product! RT @mention check out Heyo 4 iPhone #SXSW #SXSWi",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Def could use an iPad for  #SXSW today. Tweeting via iPhone sorta pretty much sux.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Disgusted with my iPhone's battery life. Already down to 11% at 3:30 pm while my blackberry is going strong. #Sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Lost iPad, corrupted iPhone, and crazy hotels. Good times. #SXSW @mention AUS Austin-Bergstrom {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"At midday, iPhone at mid-battery. This outlet, blocked by an immobile booth, serves no purpose but to taunt me. #SXSW {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I'm sorry, NOT going to the @mention party at #SxSw. ;) iPhone forever!  ;)",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Ning &amp; Mobile Roadie are thrilled to offer the Unofficial #SXSW Insider's Guide for iPhone. Have fun in Austin! {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Thank you! :) RT @mention Just picked up @mention book: Killer Photoes with your IPhone! #SXSW #sxswchi  {link} #SXSWi",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Well yeah.  Music &gt; iPhone nerds RT @mention my god, cute girls everywhere...I love when interactive ends and music begins #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I know it's #SXSW because my iPhone has started lying to me about its signal strength.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention 's nexus s on t-mobile is 10x more useful than my iphone4 on AT&amp;T at #sxsw. Is it because too many ppl have iPhone?",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Hey, that's us!! &gt;&gt; The Go Game launches do-it-yourself iPhone scavenger hunts {link} (via @mention see you at #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention (CEO Gowalla) tells his journey of Blinksale to iconbuffet to Packrat. Then the #iPhone was born and the lightbulb turned on...#sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention @mention  In our studies players tell us, &quot;Petting my iPhone makes me happy.&quot; #tapworthy #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"All this @mention #sxsw buzz makes me wish I had an Android or I-Phone.  #beforetwitter I wouldn't have had such envy.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Yay! RT ÛÏ@mention Flipboard's next platform will be the iPhone, CEO @mention says #sxswÛ",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Woo hoo! @mention is finally back on the iPhone. {link} #sxsw #il",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Woot! RT @mention So @mention just spilled the beans: next platform for Flipboard is the iPhone. Team started working on it. #sxflip #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention @mention Thanks for the love! Show us your iPhone via twitpic and we'll share the love ;] #zazzlesxsw #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Dealing w/ @mention white freeze screen far too much, while at #SXSW everyone has an iPhone...making conversion a possibility #Efficient",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Oh yeah! #saysshewithoutanipad RT @mention Flipboard's next platform will be the iPhone, CEO @mention says #sxsw (via @mention",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Enjoying #SXSW Radio Station {link} If you have an iphone use link {link} &amp; plug it into your sound system.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"My first #SXSW survival kit. iPhone not in the shot because I'm using it to take the picture.  {link} I might be ready.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Evernote + iPhone is awesome for #sxsw notes/photos #taccsxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Disaster = iPhone died in middle of #sxsw ... can't function. heading to apple store.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Not even 10am here in Austin and my iPhone batt is at 54% - shit #SXSW #notevenstartedyet",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#wjchat Q7A: I'm going iPhone/iPad only. Bought a Zagg keyboard. I have high hopes this plan will work. #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Just got a free iPhone charger. Someone came up to me and gave me one randomly. I love #sxsw!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Just got a free iPhone-charger from Alex on the #Powermatteam. Wow. Makes life at #SXSW so much easier! Thanks!  {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Just had a really great #mophie experience at #sxsw -a user for over 3 months I highly recommend their iPhone 4 battery #goodcustomerservice",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Free portable iPhone charger from @mention I'm about to use the heck out of this at #SXSW. {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Touch: trackpads first, iPhone, iPad - positives- more natural, don't have to sit, mobile, more relaxed #SXSW #sxswnui",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Monday's Adfonic Daily is Out! Read about #iphone white release #Google social #sxsw and all things #mobile here Ðü {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"packing bag for #sxsw,not taking DELL laptop (sorry richard)...at the mercy of bb torch and iphone, webmail too i suppose...cheers",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Best schwag I've seen at #SXSW is the @mention battery charger for your iPhone. How do I get one?!?!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"The big takeaway from #SXSW interactive - I need an iphone.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I just realized that I havnt used my laptop since Thursday. Pure #iPhone with a sprinkle of the #iPad2 on top. #Apple #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#virtualwallet #sxsw no NFC in #iphone5 bc of standardization while #android will have it #confusion",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"UMSHINI WAM/NIGHT FISHING are both weird as shit, but as @mention said they work well together. I liked both, esp the iPhone footage. #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Watching an 8 year old report on #sxsw via his iPhone shows that technology isn't going anywhere...until the robots revolt, that is.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I'll use an iPad 2 if someone gives it to me. Otherwise, iPhone is actually more than up to task #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Has spontaniety in life been replaced by technology? When your iPhone battery dies you go home. Great ? At #busy #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention arg. It won't load on me iPhone. Not via the app store or the site. Just trying to #sxsw it and am feelin so out of touch.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"had to charge the #iphone every 6hours here on #sxsw. running it on lowest possible screen brightness. apple, fix your basics!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"iPhone charging party in the hallway. UX and IA professionals unite! #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I go to bars and get free drinks because I have an iPhone. #doesdroid #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention at #cnngrill #sxsw rockin the #iphone couldn't be cooler {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Wonder what percentage of #SXSW interactive participants have an iPhone. It's gotta be high",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#iPhone battery doesn't last long under #sxsw usage",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Austinjs autocorrects to Sisyphus on the iPhone. Just sayin'. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I don't have a television, but still have a two-screen expierence: iPhone and iPad. #psych #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Will somebody write an app that lets me consistently type &quot;SHIT&quot; on my goddamn iphone? Hey #sxsw ... jump on that.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#sxsw #enchantment: @mention &quot;Sell your dream. Steve Jobs doesn't say: iPhone is $188 of parts+AT&amp;T, made by ppl in suicidal Chinese",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Stupid technology! You always fail at important times! At #SXSW w/ an iPhone, laptop AND Blackberry and the only thing working is my pen.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Pretty excited for my iPhone to stop working #sxsw #AT&amp;T",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"\"@mention Cool! That means we can watch Ustream in Skyfire browser on iPhone :-)",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"(Safari doesn't work) ",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Have fun!  #sxsw\"",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"new product idea: pants with a built in iphone charging dock built into the pocket! #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"You should probably put that away... RT @mention at the Android party and kinda embarrassed by my iPhone #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#localmind sounds awesome.. location based Q&amp;A could be incredibly useful. {link} #iphone #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Don't need to charge at #sxsw if you're talking in the sun with your iphone: {link} boom!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Fest tip-don't be an iPhone douche.Put away your phone and talk to your fellow festgoers in lines, etc.All good people who love film. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"at the Android party and kinda embarrassed by my iPhone #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Can already tell i should have brought as ass pillow and iPhone backup charger to #sxsw #numbassonfloor",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Looks like all the apps for #SXSW are for the #iPhone. What about the #blackberry? The blackberry??? {link} (rt @mention",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Even I use an iPhone now. RT @mention From evidence at #SxSW they might as well call this country the United States of Apple. #sxswsa",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"New Iphone autocorrect already tried to change &quot;coworkers&quot; to &quot;visigoths.&quot; Its going to be a long five days of #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"The iPhone battery was not made for @mention #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"New iPhone, new iPad 2, and they come running as fast as they can, cuz every girl crazy about a sharp Mac man... *strums guitar*  #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I never realized how shitty by iphone battery was until #sxsw I'm charging every few hours",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"That's great! RT @mention I'm unique at #SXSW because I'm the only one w/ an iPhone 3GS. All the others followers have the iPhone 4. #winning",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I connected my bluetooth keyboard to my iPhone! Hello fast blogging while I'm at #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Just showed off @mention Charge Anywhere at a bar to charge my iPhone and the whole table wanted to buy one. #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Just picked up @mention book: Killer Photoes with your IPhone! #SXSW #sxswchi  {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Like in Vegas during #CES, the iPhone is best used as a hand warmer at #SXSW.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"To my friends at #SXSW who think I abandoned you, in reality I just didn't have any means of communication, my iPhone stopped working. #fail",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Normal scene at #SXSW - an iPad in the lap and an iphone in the hand.  {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"{link} @mention chatting it up via iPhone. Hilarious. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#sxsw: @mention intrvw @mention &quot;Govt is not a vending machine [put in $, get svcs], it's a platform; iPhone was a teaching moment&quot;",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Mega tether iPhone/Android party with @mention and @mention . #chargin2diffphonesatonce #dorkinout #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"iPhone users at #SXSW - any of you have your GPS stuck on? Is one of the new geo app updates doing it? FourSquare/gowalla?",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Wow. Shakespeare's Pub on 6th St. Here's to the delete button on the iPhone video camera. #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"At #sxsw even the cabbies are tech savvy. That's his iPhone streaming twitter. @mention  {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Freaking everyone has an ipad or iPhone 4 or Mac here. Wow. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#sxsw is exposing my iphone's horrendous battery life.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Outside of 9:30 panels which 75% of people skip I can barely get anything to work on my iPhone. #sxsw needs to shrink by 10k people.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention Feature @mention for the iPhone. We will be all over #SXSW this week!",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Why is wifi working on my laptop but neither that nor 3g on my iphone? grrr. #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Prepping for and attending #SXSW without an iPhone is a dehumanizing experience.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Navigating a crowded party sucks. But its way worse when everyone walks around with their face in their iPhone. #sxsw #adpeopleproblems",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"nice being able to use just the USB charging cord with out plug to add more juice to my iPhone. #DFW #SXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Stay charged @mention #SXSW.  Visit the mophie booth #1406-08 for great deals on juice packs for ur iPhone or stay tuned for &quot;flash&quot; giveaways",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention glad I've not got a faulty iPhone then. That'll go down well for #sxsw everyone's battery dies 5 times quicker. Hope @mention knows.",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"I didn't go to #sxsw because I'm still using an iPhone 3G. #oldschool #novideo #veryslow",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention good job @mention #sxsw! went home &amp; watched season 1 of the guild =D. sucks that your tweet abt the iphone hijack is a top tweet lol",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"#SXSW math: if my flight leaves at 6:45 AM and the clocks go ahead at 2 and my iphone alarm will not go off what time do i miss my flight?",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"Having a hard time tweeting and using iPhone here at #SXSW. Using iPad and it's much better. #HISXSW",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention has their Google Analytics up - 58,967 visits, ipad and iphone are ranked in top 5 ways people access it. #newsapps #sxsw",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"RIP my iPhone 4: June 2010 -  #SXSW. You survived a severe drop, but could not evade drowning. {link}",
+       "output":{
+          "iphone":1
+       }
+    },
+    {
+       "input":"@mention I outdid myself this time with the tech #FAIL. iPhone=broken. Might be the worst thing that can ever happen at #sxs",
+       "output":{
+          "iphone":1
+       }
+    }
+ ]

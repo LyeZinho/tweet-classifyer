@@ -1,0 +1,818 @@
+[
+    {
+       "input":"ballroom d: #marissagoogle talking about some cool projects (obv). love the Google Art Project. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"It's pie day at the google booth at #sxsw #mylunch",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Having a drink called an Alan Turing and making a Lego robot. Oh, Google :) #sxsw  @mention Speakeasy {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Kinda giddy about #TheIndustryParty with #Google (&amp; more) at #GSDM. Finally, the fun comes to us non #SWSurrogates. #sxsw #notpouting",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Off to see @mention in &quot;Left Brain Search = Google. Right Brain Search = X&quot; panel at #SXSW #BetterSearch",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"The Google / ACLU party tonight at #sxsw is the best thing ever. (And apparently, the Spazmatics are a franchised band. But they rock.)",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Loving the 80s music at aclu google party!!! #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Any Google Analytics and DFP experts at #SXSW? Would love some insight on managing DFP campaigns, ad management/measurement. DM me! #HISXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I'm at the google party. @mention Rocks! #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Man, these hipsters are getting crazy at the Google party #SXSW  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"the future is about networks, not just data. that's why google may not win long term #SXSW #web3 #SaatchiNY",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"The volume is overwhelming but the market will self-police. That's why users picked Google over Bing.  #curatedebate #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"The Google party line starts behind me. Ha! The Germ has put her towel down early... #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Use Google profile or FB as  entry point? FB too personal? Try Digg or Google Reader to draw people in. #hireme #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#SXSW hire qualified and talented women consciously early on in #startups to achieve success - Google did!",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Trying the Steve Wozniak drink free thanks to Google #H4ckers #SXSW   @mention Speakeasy {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Third time the charm?&gt;&gt;&gt; #Google to launch new social network at #SXSW? - CNET News {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Just spoke with google about how they are using semantic tech to make searching user reviews better #sxsw #cmswire #web30",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;Facebook and Google are our biggest competitors.&quot; Said #4sq's Crowley #sxsw #eurosxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Yes! nailed it - Google Circles: to allow our online communication to respect the same boundaries that our offline social lives do. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#google sees the future evolving as mobile, social, and local converge to yield even more relevant results #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google prefers to launch hyped new Social features with meh, not bang? via TC {link} #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I can't believe what google just announced at Maggie Maes. Game changer for sure. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google seems to have sabotaged my YouTube account - WTF? Are they trying to OWN the entire online ecosystem?  VERY BAD FORM #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"If you aren't at google you just missed the dance party of a lifetime #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Next presentation - Google's Marissa Mayer. Should be great! #sxsw (@mention Austin Convention Center w/ @mention {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Ha! RT @mention Google guy at #sxsw talk is explaining how he made realistic Twitter bots as an experiment. Gee, thanks for doing that.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw: @mention that's already kind of happening as Google tries to refine your searches and protect you from smut",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw (@mention The League of Extraordinary H4ckers Presented By Google w/ 4 others) {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw: @mention Thinks Larry's elevation at Google is great: &quot;lost their way, caring too much about the biz, not enough about the world&quot;",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"An engineer from Google Chrome just came up to correct some misstatements about the browser. Awesome! #payingwithdata #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"2 read l8er RT ÛÏ@mention Marissa Mayer: Google Will Connect the Digital &amp; Physical Worlds Through Mobile - {link} #sxswÛ",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"This is very cool, Google is basically foing their version of an Apple event and showing a ton of new product features. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Mayer comes out sans intro, still gets cheers. #techrockstar Launches into Google's priority on location - Fast, Fun &amp; Future #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"google presentation by Mayer is a sales pitch #fail #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Big line for the Google/Bing session and people in line saying it should have been in one of the ballrooms #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Learning from Google this afternoon. Woot! #sxsw  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"but PC mag says don't hold your breath, #Circles launching slowly {link} #Google #sxsw #socialmedia",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Nieuwe regel?  &quot;Google before you tweet&quot; is the new &quot;think before you speak.&quot; - Mark Belinsky, #911tweets panel at #SXSW.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google goggles may just be my new fave thing! #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"At a #Google #SXSW party and I don't have a badge suckas!!!",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw Google and Wired parties were fun. good info from the conference.  Aristotle developers could have taught developers sessions-nxt year",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;Google before you tweet&quot; is the new &quot;think before you speak.&quot; - Mark Belinsky, #911tweets panel at #SXSW.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;google has too many products, and needs to condense them&quot; #sxsw  (FYI - they have NINE mobile products)",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;Google looks for technical solutions, which why they're not great at community because it's a human solution.&quot; #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw Google party in Austin Texas, on entry received anti privacy law petition, sunglasses and free beer. {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention Google and Lego teamed up 4 showdown at #SXSW w/ 14 teams of developers making #bots w/ mindstorm. 2nite they fight 12am #gsdm",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I think #Google lost their way by caring too much about their business (instead of their users) Tim O'Reilly #sxsw #pnid",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Just saw google speak, creating search engines tht can recognize pictures. Artificial intelligence is here! #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention Google was advertising the check-in-thing at #AUS #SXSW  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention great stuff on Fri #SXSW: Marissa Mayer (Google), Tim O'Reilly (tech books/conferences) &amp; Matt Mullenweg (Wordpress)",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Having a great time at the Google Party #sxswi #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Props to GSDM and the big G. (google) at #SXSW. Great crowd and agency space but Bluezoom can give them a run ;) {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Open graph did repair the damage google did to the title tag. #sxsw #microformats",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"wow!! much hirer than I expected RT @mention 40% of google maps use is mobile #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Bing/icanhas is on fire. Still going to keep searching with google, though. #sxsw #thanksforthebrandedshades",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#google the future is &quot;the power of here&quot; paired with augmented reality and contextual reality #pnid #SxSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Data is the new oil. (Companies like Google and Facebook have monopoly and terms of service to be wary of) - @mention #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"About to hear Marissa Mayer from Google speak. 3 rows back. So cool! #SXSW #Google",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention Hey! Y'all have anyway to get text updates?? I don't have a cool pocket google machine phone #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"This is why social technology is amazing: Google has set up a Person Finder in both English and Japanese: {link} #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention I'd say yes. Facebook and Google are implementing it which brightens the future. Good impact I'm search too. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google tries to give doodles a whimsical, fun spirit. #sxsw #GoogleDoodles",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google building real time @mention engine to monitor illegal deforestation in real time #tech4good #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Marissa Miller of Google makes shout out to the  Khan Academy and the great things they're doing for education. #fmsignal #sxsw (cc @mention",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;brains are to zombies what content is to google, they can't get enough&quot; #sxsw #contentrules",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Fun with interactive maps at the @mention and Google party: {link} #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Good session! RT @mention 2 years of time saved every day by people qho use google maps &quot;route around&quot; feature #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I cant wait to give the SAMSUNG people a demo of my horrible, terrible Google Nexus S phone at #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention It's the next step of Google becoming Skynet. #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Mayer admits that Google needs to step up one-to-one customer service. Would set an amazing precedent! #sxsw #fh",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google's JS implementation of PAC-Man's game logic is really cool to see-really neat that the original game code was recreated in JS #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention Just won an HTML5 t-shirt from google for saying that EaselJS is my favorite canvas library at #sxsw. Thanks brah!",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"great talk about the Google Doodles and in the end they hand out printed signed doodles #SXSW  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Weinschenk at #bankinnovation: next battle for this is going to happen with apple, google, verizon, att. Great point. Totally agree. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Great talk on using game mechanics to get user engagement @mention from google rocked it. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Sounds like Buzz rebranded w/an inner circle  RT @mention Google to Launch New Social Network: &quot;Circles&quot; {link} #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google takes the mantra of 'Dont be evil' to heart, yet their pride in their products make them guilty of the 7th deadly sin, Superbia #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Man, Google *should* launch Circles at #SXSW. Talk about striking while the iron is hot. | @mention @mention",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"The #google name was built on gettinng stuff out there and trying it with users to see what works. #marissagoogle #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"GSDM Google party is off the hook! #SXSW  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"This Google/Bing Q&amp;A panel is like the world's most expensive SEO consultation. #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google celebrating Pi Day in style at #SXSW -  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I mean, sliced bread is great. But google bread is going to be revolutionary. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Never realized that there was a story/meaning behind every Google logo. So cool. Loving hearing from the #GoogleDoodle Team! #gsdm #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google will eat itself #rhizome #sxswk #sxsw  @mention Hilton {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google will not launch Facebook competitor Circles @mention #sxsw today as thought, creeper half-friends the world over disappointed.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google will take over the world #SXSW (@mention ACC - Ballroom D w/ 97 others) {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Will overload of info delivered by Google kill discovery? Google says ppl won't lose curiosity, but I wonder...We need serendipity. #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"After failure of Google buzz, Google Latitude, now Google Circle! Seriously Google needs to concentrate more on search! #FAIL #google #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Very timely #SXSW RT @mention Bing's search engine share continues to rise, up to 13.6%. Google still tops at 65.4% {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"In a really long line to get into the ACLU/Google party. Not sure I can wait this out. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google's Marissa Mayer - she is awesome! #SXSW #MarissaGoogle  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google's Marissa Mayer up next at #SXSW - looking forward to this.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google's Marissa Mayer: &quot;The mobile phone is a cursor that connects the physical and digital worlds.&quot; #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Casually mentioned: you can forecast the DOW six days ahead based on Google mood analysis of Twitter data. #sxsw #smvis #imrich",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"marcelosomers: New version of Google Maps for Mobile is pretty amazing - vector based &amp; FAST! #sxsw: marcelosomers:... {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Strong rumours abt Google unveiling a new social network called 'Circles' at  #sxsw  Does look interesting: {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Doodle competition: invite kids to create own doodles. Winners are put on Google.com to celebrate their awesomeness!  #GoogleDoodle #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Australian business &amp; not-for-profits may be interested in these SEO insights from Google &amp; Bing at #sxsw {link} #digibiz",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Innovation in banking is coming from mobile. The innovators are Apple, Google and Verizon #sxsw #bankinnovation",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"this woman is great - fessing up to issues, admitting google could do better #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Left brain search = google. Right brain search = X. Best session today covering semantic web and recommendations #sxsw {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Grrr..plancast stuff exported to Google calendar in San Diego/pacific time did not shift to central tme #wack #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google finding new ways to help small business say more on their Place Page #sxsw [Here's our overview {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google handing out free pi for pi day! #SXSW #win",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"is EVERYONE that works at google this genius??!?  Seriously smart AND artistic. #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"interesting &quot;@mention &quot;Google looks for technical solutions which why they're not great @mention community because its a human solution #SXSWÛ",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"At debating brands role as publishers #sxsw.  Enjoyed what I heard from the google doodle guys too.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"I'm looking forward to our panel tomorrow (5pm) at #SXSW: Left Brain Search = Google. Right Brain Search = X {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"@mention Nice #SXSW song @mention  DonÛªt hack, Write Rails. Under deliver, over sell. Work for Google. {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Mayer opens it up to questions. Brave girl. More &quot;Google should...&quot; than actual ?s. At least she's accessible. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#SXSW Plans: Google party, blackberry party and then IE 8 party. Good times.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"&quot;Transparency, choice and control are what define Google products.&quot; -Mayer. Thereby defining the Google brand with the same values #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google continues to innovate.  I don't think we can fathom what the future will be like.  #SxSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":":) RT @mention &quot;Google before you tweet&quot; is the new &quot;think before you speak.&quot; - Mark Belinsky, #911tweets panel at #SXSW.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Nice! @mention #sxsw highlights thus far: made friends w/ istock UX developer :) #singularity blows my mind: oy! GOOGLE OWNS IT!",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw @mention das VerpixelungsrechtÛÓthe right for your house to be pixelated in Google Street ViewÛÓ is a theft from the public",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Best photo booth so far at Google's League of Extraordinary H4ckers! #sxsw  {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#google to expensive mobile data plans are killing the flavor of contextual discovery abroad #SxSW #pnid",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Heading to free Google-sponsored happy hour for Semantic Web Austin @mention Fogo de ChÌÁo #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Anxious to see what Google has in store for #SXSW today.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google two-factor auth is AWESOME when you're using public computers. Just used it at #SXSW {link}",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Fantastico! RT @mention Marissa Mayer: Google Will Connect the Digital &amp; Physical Worlds Through Mobile - {link} #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google doodles always strive to respect and complement the original artwork. #GoogleDoodle #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Google product showcases never feel that cool. No price tag, brand equity, wow factor attached. #sxsw marissa mayer",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"At the Google party...awesome.  #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#SXSW #Google Saving Drivers Time and Fuel {link} #seo #sem #googlemaps #mobile #topnews",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Wow! - Google to launch new social network at SXSW? {link} #sxsw #google",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Apple, Google, Intel &amp; Others Get Going Gold for the Go Game  {link} #TheGoGame #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Seeing Google's new maps for mobile with 3D buildings and super fast rendering over network. #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Amazing joke on bad teeth picture... Just google British teeth on google, it's the first hit. @mention dude is killing it! #SXSW",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"Really cool shit #google is working on. #Google web fonts look hawt. #sxsw @mention",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"#sxsw Recommendation Engine Session was  fantastic!  Thanks #google #pandora #YouTube #stumbledupon.",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"RT @mention 'Google lost its way by caring too much for the business vs. the users' - @mention #psych #sxsw",
+       "output":{
+          "google":1
+       }
+    },
+    {
+       "input":"",
+       "output":{
+          "google":1
+       }
+    }
+ ]
