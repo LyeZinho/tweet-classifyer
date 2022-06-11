@@ -1,9 +1,9 @@
 # tweet classifyer
 Tweet classification tool using deep learning [ Brain.js }
 
-Ferramenta parara classificação de tweets usando deep learning em javascript
+Tool for classifying tweets using deep learning
 
-Como funciona?
+How this works?
 
 Tweets -> stem + tokenization -> Words dictionary
 
