@@ -123,7 +123,7 @@ network.train(dataset, {
 
 
 const output = network.run(
-    createBoW("$130,000", dictionary)
+    createBoW("(&amp; more)", dictionary)
 );
 
 console.log(output);
