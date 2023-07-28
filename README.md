@@ -1,5 +1,5 @@
 # 🐤tweet classifyer🐤
-Tweet classification tool using deep learning [ Brain.js }
+Tweet classification tool using deep learning [ Brain.js ]
 
 Tool for classifying tweets using deep learning
 
